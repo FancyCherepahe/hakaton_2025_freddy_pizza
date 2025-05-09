@@ -33,15 +33,17 @@ body{
 #title{
     font-family: sans-serif;
     text-align: center;
-    padding-bottom: 185px;
+    padding-bottom: 185px ;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjMBWQ-rmzi4I19iJa7TyrSj0CyEin1ICow&s");
     color:white;
     text-shadow: 5px 5px 10px darkblue;
+    
     
 }
 .in_site_div{
     border:3px solid darkblue;
     background-color: white;
+    margin-bottom: 30px;
 }
 .in_site_title{
     font-family: sans-serif;
